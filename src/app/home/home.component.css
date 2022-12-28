@@ -1,10 +1,10 @@
-.container{
-    text-align: center;
+
+.body
+{
+    height: 91vh;
     width: 100%;
-    height: 680px;
-    background: linear-gradient(rgba(89, 152, 162, 0.316), rgba(116, 130, 132, 0.093));
-   
-   
-    
-    
+    padding: 20px !important;
+    background:linear-gradient(rgba(75, 77, 77, 0.601), rgba(79, 84, 87, 0.618)),  url(https://pearl.stylemixthemes.com/seo-agency/wp-content/uploads/sites/38/2019/01/slide1.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
 }
